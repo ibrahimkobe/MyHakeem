@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="My_hakeem_logo.png" alt="MyHakeem Logo" width="160"/>
+<img src="My-hakeem-logo.png" alt="MyHakeem Logo" width="260"/>
 
 # MyHakeem Healthcare Organization
 ### Data Science & Business Intelligence Analysis
 
 ![University](https://img.shields.io/badge/HTU-University%20Project-005BAA?style=for-the-badge&logo=graduation-cap&logoColor=white)
 ![Tool](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Language](https://img.shields.io/badge/Python-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database%20Querying-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-28a745?style=for-the-badge)
 
 **Ibrahim Abu Kobe**
